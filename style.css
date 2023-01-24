@@ -1,0 +1,238 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+.navigation{
+    text-align: center;
+    border-top: 5px solid #FF7500;
+}
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+.site-item {
+    display: inline-block;
+}
+.list{
+    margin-left: 300px;
+    border-bottom: 3px solid #FF7500;
+    display: inline-block;
+}
+.site-item--list {
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+.list2 {
+    color:#fff;
+    display: inline-block;
+    width: 160px;
+    height: 40px;
+    background: #FF7500;
+    border-radius: 4px;
+    padding-top: 20px;
+}
+
+.all-btn {
+    cursor: pointer;
+}
+
+.all-btn:hover {
+    opacity: 0.6;
+}
+
+.site-item--list:hover {
+    color: #FF7500;
+    cursor: pointer;
+}
+.logo:hover {
+    opacity: 0.8;
+}
+.list2:hover {
+    color: #fff;
+    opacity: 0.5;
+}
+.site-item--list:active {
+    opacity: 0.5;
+}
+.logo:active {
+    opacity: 0.5;
+}
+.main-section {
+    background-color: #252420;
+}
+.underline {
+    height: 3px;
+    width: 80px;
+    background-color:#FF7500;
+    margin-top: 80px;
+    display: inline-block;
+    margin-left: 170px;
+    display: inline-block;
+}
+.main-text--1 {
+    margin-left: 170px;
+    color: #fff;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 24px;
+    display: inline-block;
+}
+.main-text--2 {
+    margin-bottom: 44px;
+    font-size: 16px;
+    margin-left: 170px;
+    color: #fff;
+    display: inline-block;
+}
+.main-btn {
+    width: 152px;
+    height: 39px;
+    background: #FF7500;
+    border-radius: 8px;
+    border: none;
+    color: #fff;
+    margin-left: 170px;
+    margin-bottom: 78px;
+    display: inline-block;
+}
+.main-img {
+    position: absolute;
+    top:180px;
+    left: 670px;
+}
+.underline-2{
+    height: 3px;
+    width: 80px;
+    background-color:#FF7500;
+    margin-top: 210px;
+    display: inline-block;
+    margin-left: 170px;
+}
+.hero-section--text {
+    font-size:72px;
+    margin:24px 0 72px 170px;
+}
+.icon-text {
+    font-size: 24px;
+}
+.hero-section--icon {
+    display: inline-block;
+    margin-right: 66px;
+    margin-bottom: 210px;
+}
+.section-icon {
+    margin-left: 170px;
+}
+.hero-section{
+    margin-bottom: 120px;
+}
+.under-section {
+    background: #252420;
+    border-radius: 12px;
+    margin-left: 180px;
+    margin-right: 150px;
+    margin-bottom: 160px;
+}
+.under-tex {
+    font-size: 40px;
+    padding-top: 64px;
+    padding-left: 64px;
+    color:#fff;
+    margin: 0;
+}
+.under-text--2 {
+    margin-left: 64px;
+    margin-top: 24px;
+    color: #fff;
+}
+.under-text--3 {
+    color:#FF7500;
+}
+.under-btn {
+    background-color: #FF7500;
+    color: #fff;
+    padding: 12px 24px;
+    border:none;
+    border-radius:4px;
+    margin-left: 64px;
+    margin-top: 24px;
+    margin-bottom: 64px;
+}
+.under-img {
+    position: absolute;
+    top: 1600px;
+    left: 700px;
+}
+.footer-logo {
+    margin-left: 170px;
+    margin-top: 56px;
+    margin-bottom: 40px;
+}
+.footer-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 16px;
+    text-decoration: none;
+    margin-bottom: 58px;
+    display: inline-block;
+}
+.icon {
+    margin-left: 700px;
+}
+.footer-line {
+    margin-left: 170px;
+    height: 2px;
+    width: 1040px;
+    background: rgba(37, 36, 32, 0.5);
+}
+.first-div {
+    position: absolute;
+    left: 180px;
+    top: 2450px;
+}
+.second-div {
+    position: absolute;
+    left: 450px;
+    top: 2450px;
+}
+.thirty-div {
+    position: absolute;
+    left: 750px;
+    top: 2450px;
+}
+.fourth-div {
+    position: absolute;
+    left: 1000px;
+    top: 2450px;
+}
+.footer-div--text {
+    display: inline-block;
+    padding: 10px 0px;
+    text-decoration: none;
+    color: #000;
+}
+.footer-div--text:hover {
+    color: #FF7500;
+}
+.footer-logo:hover {
+    opacity: 0.8;
+}
+.footer-icon:active {
+    opacity: 0.6;
+}
+.footer-logo:active {
+    opacity: 0.5;
+}
+.footer-div--text:active {
+    opacity: 0.6;
+}
+.icon:hover {
+    background-image:url("images/icon-telegram2.svg");
+}
+.icon2:hover {
+    background-image:url('images/icon-facebook2.svg');
+}
+.icon3:hover {
+    background-image:url('images/icon-instagram2.svg');
+}
+
